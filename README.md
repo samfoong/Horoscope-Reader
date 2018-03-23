@@ -14,3 +14,4 @@ Install the above gems
 `gem install colorize`
 
 `gem install zodiac`
+# Horoscope-Reader
